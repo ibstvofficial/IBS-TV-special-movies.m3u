@@ -4,8 +4,8 @@
 https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index_2.m3u8
 #EXTINF:-1 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Official_logo_of_Pakistan_Super_League.png" ,PSL URDU
 https://pslurdu.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index_2.m3u8
-#EXTINF:-1 group-title="Live Event" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/24/Official_logo_of_Pakistan_Super_League.png" ,IPL 2026
-https://johirxofficial.iam.bd/live/35332/test/plusbox/StarSports1HD.m3u8
+#EXTINF:-1 group-title="Live Event" tvg-logo="https://documents.iplt20.com/bcci/articles/1746380826_IPL_Website.png" ,IPL 2026
+https://backend.plusbox.tv/StarSports1HD/tracks-v1/index.fmp4.m3u8?token=3901a24bbe39aadd988a35906efef0f2a4f799c6-23a6879e089d4cd7b0477839f556ead6-1776173783-1776162983
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" ,Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
 
