@@ -8,6 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # এটি গিটহাবকে ফাইল লেখার অনুমতি দেয়, যা ১২৮ এরর সমাধান করবে
     permissions:
       contents: write
 
@@ -32,6 +34,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add movies.m3u
+          # যদি কোনো পরিবর্তন না থাকে তবে এরর না দিয়ে প্রসেস শেষ করবে
           git commit -m "Auto Update Movie Playlist" || exit 0
           git push
           
