@@ -22,7 +22,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install requests
+          pip install requests pytz
 
       - name: Run Live TV Scraper
         run: python merge_script.py
@@ -32,6 +32,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add playlist.m3u
-          git commit -m "Auto Update Live TV Playlist" || exit 0
+          git commit -m "Auto Update Live TV Playlist with Time" || exit 0
           git push
           
