@@ -4,8 +4,8 @@ import pytz
 
 # সোর্স ইউআরএলগুলো
 urls = [
-    "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/refs/heads/main/playlist.m3u",
-    "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u"
+    "https://aynaott-auto-update-playlist.pages.dev/AynaOTT.m3u",
+    "https://iptv-org.github.io/iptv/languages/ben.m3u"
 ]
 
 def merge_playlists():
