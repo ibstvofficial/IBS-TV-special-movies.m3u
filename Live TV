@@ -61,13 +61,13 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 https://cdn-6.pishow.tv/live/13/master.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/4429e88eac56b0c7c7274ce36db967d8" ,Bahrain Sports 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBRf6zU2qmpECHWSSONT2ElowE6k5Kd3huKlfhnzi5lyfCfG933D1N8xf&s=10" ,sport tv 2
 
-https://tvsen6.aynascope.net/BahrainSports2/index.m3u8?e=1776088312&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f8cd0714e5b76b0e03e8e78b1904e306
+https://1nyaler.screenistream.xyz/stream/34/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/833148a9228c3a12ef0effc8f265cf1f" ,Dubai Sports 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBRf6zU2qmpECHWSSONT2ElowE6k5Kd3huKlfhnzi5lyfCfG933D1N8xf&s=10" ,Sports tv 3
 
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+https://1nyaler.screenistream.xyz/stream/35/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086" ,NBC Sports
 
@@ -75,11 +75,11 @@ https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/1f08174ace89c73d3d4d8b72dd4601a4" ,Sharjah Sports TV
 
-[suspicious link removed]
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/daeac3b0e17bfabd911bd5dc63c69aa8" ,STAR SPORTS 2 HD
 
-https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1776088315&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0bd221331c1790e4fb0ecf54490d127d
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwC21FebxsbZ47ndh4O4RsHdv_8nOlQMlEZD6BTrPMsuAH_cpjyqJ3rhn8&s=10" , TNT sports 
+
+https://1nyaler.screenistream.xyz/stream/122/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6" ,WOF 1
 
@@ -105,21 +105,6 @@ https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9" ,Oman Sports TV
-
-[suspicious link removed]
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/c30429bafb0fb4f457efec501cb9f0e8" ,Dubai Sports
-
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-name="Star Sports 1 HD" ,Star Sports 1 HD
-
-[suspicious link removed]
-
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://s3.aynaott.com/storage/0cb865748deefd42e69fd9a221cf38ee" ,Zee Bangla International
-
-https://tvsen5.aynascope.net/PNEb3v2q6GBk/index.m3u8?e=1776088429&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8084be97745803a2115e4771cd27cb2e
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d" ,DD Bangla
 
