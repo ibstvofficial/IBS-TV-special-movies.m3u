@@ -1,9 +1,9 @@
-name: Auto Live TV Playlist Update
+name: Auto Live TV Playlist Ultimate Update
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # প্রতি ৩ ঘণ্টা পর পর অটো রান হবে
-  workflow_dispatch: # ম্যানুয়ালি রান করার অপশন
+    - cron: '0 * * * *' # প্রতি ১ ঘণ্টা পর পর (ঘণ্টার শুরুতে) অটো রান হবে
+  workflow_dispatch: # যখন খুশি ম্যানুয়ালি রান করার অপশন
 
 jobs:
   build:
@@ -24,7 +24,7 @@ jobs:
         run: |
           pip install requests pytz
 
-      - name: Run Live TV Scraper
+      - name: Run Ultimate Scraper
         run: python merge_script.py
 
       - name: Commit and Push Changes
@@ -32,6 +32,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add playlist.m3u
-          git commit -m "Auto Update Live TV Playlist with Time" || exit 0
+          # যদি কোনো পরিবর্তন না থাকে তবে এরর ছাড়াই শেষ হবে
+          git commit -m "Hourly Ultimate Update: $(date)" || exit 0
           git push
           
