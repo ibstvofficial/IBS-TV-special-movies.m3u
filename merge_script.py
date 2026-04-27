@@ -9,7 +9,7 @@ urls = [
     "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u",
     "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/main_playlist.m3u",
     "https://raw.githubusercontent.com/srhady/CricketLive/refs/heads/main/playlist.m3u",
-    "https://aynaott-auto-update-playlist.pages.dev/AynaOTT.m3u",
+    "https://raw.githubusercontent.com/sm-monirulislam/RoarZone-Auto-Update-playlist/refs/heads/main/RoarZone.m3u",
     "https://iptv-org.github.io/iptv/languages/ben.m3u"
 ]
 
