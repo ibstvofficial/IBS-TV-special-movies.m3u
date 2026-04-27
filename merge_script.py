@@ -2,6 +2,7 @@ import requests
 from datetime import datetime
 import pytz
 import re
+import random # রেন্ডম সিলেকশনের জন্য যুক্ত করা হয়েছে
 
 # সোর্স ইউআরএলগুলো
 urls = [
@@ -12,8 +13,14 @@ urls = [
     "https://iptv-org.github.io/iptv/languages/ben.m3u"
 ]
 
+# প্রোমোশন ভিডিওর তালিকা
+PROMO_VIDEOS = [
+    "https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4",
+    "https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291577865.mp4",
+    "https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4"
+]
+
 def clean_channel_name(name):
-    # নামের মাঝখান থেকে অপ্রয়োজনীয় লেখা রিমুভ করা
     junk = ["| High Quality", "| BDIX", "| VIP", "SD", "HD", "FHD", "(Backup)", "Premium"]
     for word in junk:
         name = name.replace(word, "")
@@ -46,7 +53,7 @@ def merge_playlists():
     DEFAULT_LOGO = "https://bdixiptvbd.com/logo.png"
     
     added_groups = set()
-    seen_links = set() # ডুপ্লিকেট লিঙ্ক এড়ানোর জন্য
+    seen_links = set()
 
     for url in urls:
         try:
@@ -62,13 +69,11 @@ def merge_playlists():
                         if (i + 1) < len(lines):
                             channel_url = lines[i+1].strip()
                             
-                            # ১. ফিল্টারিং
                             if BANNED_KEYWORD in line.lower() or BANNED_LINK_PART in channel_url.lower():
                                 i += 2
                                 continue
 
                             if channel_url.startswith("http") and channel_url not in seen_links:
-                                # ২. গ্রুপ এবং লোগো প্রসেসিং
                                 group_match = re.search(r'group-title="([^"]+)"', line)
                                 raw_group = group_match.group(1) if group_match else "OTHERS"
                                 final_group = normalize_group(raw_group)
@@ -76,18 +81,16 @@ def merge_playlists():
                                 logo_match = re.search(r'tvg-logo="([^"]+)"', line)
                                 final_logo = logo_match.group(1) if (logo_match and logo_match.group(1)) else DEFAULT_LOGO
 
-                                # ৩. চ্যানেল নাম ক্লিনআপ
                                 name_part = line.split(",")[-1]
                                 final_name = clean_channel_name(name_part)
 
-                                # ৪. গ্রুপের শুরুতে প্রমোশন চ্যানেল
+                                # গ্রুপের শুরুতে রেন্ডম প্রোমোশন ভিডিও যোগ করা
                                 if final_group not in added_groups:
+                                    random_promo = random.choice(PROMO_VIDEOS) # এখান থেকে রেন্ডমলি ১টি ভিডিও নিবে
                                     promo_line = f'#EXTINF:-1 tvg-logo="{DEFAULT_LOGO}" group-title="{final_group}",--- [ {final_group} PROMOTION ] ---'
-                                    promo_url = "https://bdixiptvbd.com/live/Telegram.mp4"
-                                    merged_content += promo_line + "\n" + promo_url + "\n"
+                                    merged_content += promo_line + "\n" + random_promo + "\n"
                                     added_groups.add(final_group)
 
-                                # ৫. নতুন ফরম্যাটে চ্যানেল যোগ করা
                                 new_line = f'#EXTINF:-1 tvg-logo="{final_logo}" group-title="{final_group}",{final_name}'
                                 merged_content += new_line + "\n" + channel_url + "\n"
                                 seen_links.add(channel_url)
@@ -103,10 +106,10 @@ def merge_playlists():
     try:
         with open("playlist.m3u", "w", encoding="utf-8") as f:
             f.write(merged_content)
-        print(f"All Systems Integrated! Updated at {current_time}")
+        print(f"Random Promo Integrated! Updated at {current_time}")
     except Exception as e:
         print(f"Save Error: {e}")
 
 if __name__ == "__main__":
     merge_playlists()
-            
+                                    
