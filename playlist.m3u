@@ -1,22 +1,18 @@
 #EXTM3U
 # Playlist Name: IBS TV PRIME - ULTIMATE
-# Last Update: 05:42 PM 27-04-2026 (BD Time)
+# Last Update: 06:31 PM 27-04-2026 (BD Time)
 # Telegram: https://t.me/bdixiptvbd
 # WhatsApp: 01610598422
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="SPORTS",--- [ SPORTS PROMOTION ] ---
-https://bdixiptvbd.com/live/Telegram.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17770349711020x576.jpg" group-title="SPORTS",Bangladesh vs New Zealand Live | New Zealand Tour of Bangladesh 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_D-English/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg" group-title="SPORTS",United Arab Emirates Vs Oman | ICC CWC League 2 Nepal 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/united_arab_emirates_vs_oman_141977_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg" group-title="SPORTS",New Zealand Vs Bangladesh | New Zealand tour of Bangladesh 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/new_zealand_vs_bangladesh_142069_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142059_6045_USA-W_VANW_fc-web.jpg" group-title="SPORTS",Usa Women Vs Vanuatu Women | ICC Women's T20I Challenge Trophy 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/usa_women_vs_vanuatu_women_142059_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mutua-Madrid-Open,-ATP-1000-old--(1).png" group-title="SPORTS",Day 6   Main Feed | ATP Masters Mutua Madrid Open 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/day_6___main_feed_141862_english.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="BANGLA TV",--- [ BANGLA TV PROMOTION ] ---
-https://bdixiptvbd.com/live/Telegram.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291577865.mp4
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b30147b97d86754e4b97fc2989628391" group-title="BANGLA TV",BTV World
 https://tvsen6.aynascope.net/btv_world/index.m3u8?e=1777296139&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b7fce7c020b91b7a7dd317fc838e67b4
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/00da8a07fb26b2fb79359ee535e4c7bc" group-title="BANGLA TV",BTV CTG
@@ -74,7 +70,7 @@ https://tvsen6.aynascope.net/mohonatv/index.m3u8?e=1777296159&u=78be6644-0a65-48
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/08773290bf83a917aebc07810f12ed49" group-title="BANGLA TV",Drama 24
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="NEWS",--- [ NEWS PROMOTION ] ---
-https://bdixiptvbd.com/live/Telegram.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291577865.mp4
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/b28173a251bda1357f9884ca7eef7b89" group-title="NEWS",ABC 7 Bay
 https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413" group-title="NEWS",ABC News
@@ -236,7 +232,7 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c30429bafb0fb4f457efec501cb9f0e8" group-title="SPORTS",Dubai Sports
 https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="OTHERS",--- [ OTHERS PROMOTION ] ---
-https://bdixiptvbd.com/live/Telegram.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/04a8e0917184b617f74b85f98a8cf983" group-title="OTHERS",Aakaash Bangla TV
 https://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8?e=1777296251&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=eab6acec02d13b14af95d1503421d422
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9531f970bb7abf30ac2a48f40838c3a1" group-title="OTHERS",R Plus
@@ -526,7 +522,7 @@ https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1b9208802bbf0cc01f1e8319b0ec633d" group-title="OTHERS",Discover Pikstan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="MOVIES",--- [ MOVIES PROMOTION ] ---
-https://bdixiptvbd.com/live/Telegram.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f24e50516ccf6b3e94a4ca749ccb3533" group-title="MOVIES",Persiana Kore
 https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/1767a29ab2a18975e84cc9aee178681d" group-title="OTHERS",Dream Turk
