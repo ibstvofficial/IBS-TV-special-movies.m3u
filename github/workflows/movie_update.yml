@@ -1,0 +1,39 @@
+name: Auto Update IBS Special Movies
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # এই লাইনটিই ম্যানুয়াল রান চালু করে
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+        with:
+          ref: '.m3u8' # এটি নিশ্চিত করবে যে কাজগুলো আপনার নির্দিষ্ট ব্রাঞ্চেই হচ্ছে
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests pytz
+
+      - name: Run Movie Scraper
+        run: python movie_script.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add "IBS TV special.m3u"
+          git commit -m "Update on .m3u8 branch: $(date)" || exit 0
+          git push origin .m3u8
+          
