@@ -2,8 +2,8 @@ name: Auto Update IBS Special Movies
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # প্রতি ৩০ মিনিট পর পর অটো রান হবে
-  workflow_dispatch: # ম্যানুয়ালি রান করার অপশন
+    - cron: '*/30 * * * *' # প্রতি ৩০ মিনিট পর পর
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
+        with:
+          ref: '.m3u8' # এখানে স্পষ্টভাবে আপনার ব্রাঞ্চের নাম বলে দেওয়া হয়েছে
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -25,13 +27,13 @@ jobs:
           pip install requests pytz
 
       - name: Run Movie Scraper
-        run: python movie_script.py # আপনার মুভি স্ক্রিপ্ট ফাইলের নাম নিশ্চিত করুন
+        run: python movie_script.py
 
       - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add "IBS TV special.m3u"
-          git commit -m "Movie Update (30 min interval): $(date)" || exit 0
-          git push
+          git commit -m "Movie Update on .m3u8 branch: $(date)" || exit 0
+          git push origin .m3u8 # নির্দিষ্ট করে .m3u8 ব্রাঞ্চে পুশ করা হচ্ছে
           
