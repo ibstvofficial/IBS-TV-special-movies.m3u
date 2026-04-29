@@ -1,0 +1,37 @@
+name: Auto Update IBS Special Movies
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # প্রতি ৩০ মিনিট পর পর অটো রান হবে
+  workflow_dispatch: # ম্যানুয়ালি রান করার অপশন
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests pytz
+
+      - name: Run Movie Scraper
+        run: python movie_script.py # আপনার মুভি স্ক্রিপ্ট ফাইলের নাম নিশ্চিত করুন
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add "IBS TV special.m3u"
+          git commit -m "Movie Update (30 min interval): $(date)" || exit 0
+          git push
+          
