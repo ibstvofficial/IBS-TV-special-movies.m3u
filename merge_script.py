@@ -45,7 +45,7 @@ def merge_playlists():
     merged_content = f"""#EXTM3U
 # Playlist Name: IBS TV PRIME - ULTIMATE
 # Last Update: {current_time} (BD Time)
-# Telegram: https://t.me/bdixiptvbd
+# Telegram: https://t.me/ibstvbd
 # WhatsApp: 01610598422\n"""
 
     BANNED_KEYWORD = "playz tv"
