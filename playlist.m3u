@@ -1,26 +1,16 @@
 #EXTM3U
 # Playlist Name: IBS TV PRIME - ULTIMATE
-# Last Update: 11:16 PM 18-06-2026 (BD Time)
+# Last Update: 02:30 AM 19-06-2026 (BD Time)
 # Telegram: https://t.me/ibstvbd
 # WhatsApp: 01610598422
-#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="SPORTS",--- [ SPORTS PROMOTION ] ---
-https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17816018801020x576.jpg" group-title="SPORTS",England vs New Zealand | New Zealand Tour of England 2026
-https://serieAleague.akamaized.net/hls/live/2107107/tap5tju8g1i/master.m3u8
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17817651051020x576.jpg" group-title="SPORTS",Stockholm United vs Malmo Mavericks | Nordic Smash 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022386/143092_CASACARDS_SPORTY_APP.png" group-title="SPORTS",Jabalpur Royal Lions Vs Royal Nimar Eagles | Madhya Pradesh League T20 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/jabalpur_royal_lions_vs_royal_nimar_eagles_143092_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143186_6109_MLM_HMU_FC-WEB.jpg" group-title="SPORTS",Malmo Mavericks Vs Stockholm United | Nordic Smash T20 Cup 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/malmo_mavericks_vs_stockholm_united_143186_english.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="OTHERS",--- [ OTHERS PROMOTION ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291577865.mp4
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Terra-Wortmann-Open-ATP-500-Grass-old-.png" group-title="OTHERS",Day 4   World Feed | ATP 500 - Terra Wortmann Open 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_143259_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/HSBC-ChampionshipsATP500Grassfcweb.jpg" group-title="OTHERS",Day.4   World Feed | ATP 500 - HSBC Championship 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_4___world_feed_143141_english.m3u8
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143293_6121_PGA_LOC_FC-WEB.png" group-title="OTHERS",Day 1 | US Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_1_143293_english.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="SPORTS",--- [ SPORTS PROMOTION ] ---
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291577865.mp4
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="SPORTS",DD Sports
 https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" group-title="OTHERS",Aakaash Aath (576p)
@@ -28,7 +18,7 @@ https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="OTHERS",Aamar Bangla (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="NEWS",--- [ NEWS PROMOTION ] ---
-https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142518_ld_h15_aa.png?lock=720x540" group-title="NEWS",ABP Ananda (1080p)
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Calcutta%20News.png" group-title="NEWS",AKD Calcutta News (1080p)
@@ -74,7 +64,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png" group-title="OTHERS",Colors Bangla (576p)
 http://103.72.101.252:8080/live/1369.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="MOVIES",--- [ MOVIES PROMOTION ] ---
-https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png" group-title="MOVIES",Colors Bangla Cinema (576p)
 http://103.72.101.252:8080/live/1657.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png" group-title="OTHERS",Colors Bangla  (1080p)
