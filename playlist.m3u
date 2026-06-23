@@ -1,20 +1,26 @@
 #EXTM3U
 # Playlist Name: IBS TV PRIME - ULTIMATE
-# Last Update: 03:50 PM 23-06-2026 (BD Time)
+# Last Update: 06:36 PM 23-06-2026 (BD Time)
 # Telegram: https://t.me/ibstvbd
 # WhatsApp: 01610598422
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="SPORTS",--- [ SPORTS PROMOTION ] ---
-https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291577865.mp4
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438658/143421_CASACARDS_SPORTY_APP.png" group-title="SPORTS",Gulbarga Mystics Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gulbarga_mystics_vs_shivamogga_yodhas_143421_english.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438658/143421_CASACARDS_SPORTY_APP.png" group-title="SPORTS",Gulbarga Mystics Vs Shivamogga Yodhas | Maharaja T20 Trophy 2026 (KANNADA)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/gulbarga_mystics_vs_shivamogga_yodhas_143421_kannada.m3u8
 #EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780469022415/143099_CASACARDS_SPORTY_APP.png" group-title="SPORTS",Indore Pink Panthers Vs Gwalior Cheetahs | Madhya Pradesh League T20 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/indore_pink_panthers_vs_gwalior_cheetahs_143099_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1782018540405/143546_CASACARDS_SPORTY_APP.png" group-title="SPORTS",Thailand Vs Singapore | Asia Pacific Cricket Champions Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/thailand_vs_singapore_143546_english.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="OTHERS",--- [ OTHERS PROMOTION ] ---
-https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291577865.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Lexus-Eastbourne-Open-2026_FC-WEB.jpg" group-title="OTHERS",Day 2 | ATP 250 - Lexus Eastbourne Open 2026 (ENGLISH)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_2_143278_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Vanda-Pharma_Web-match-card.png" group-title="OTHERS",Day 3 | ATP 250 - Vanda Pharma Mallorca Championships 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/day_3_143272_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1780575318051/143319_CASACARDS_SPORTY_APP.png" group-title="SPORTS",Namibia Vs Nigeria | Men's T20I Tri series in Namibia 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/namibia_vs_nigeria_143319_english.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="SPORTS",DD Sports
 https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" group-title="OTHERS",Aakaash Aath (576p)
