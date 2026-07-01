@@ -1,6 +1,6 @@
 #EXTM3U
 # Playlist Name: IBS TV PRIME - ULTIMATE
-# Last Update: 11:25 AM 01-07-2026 (BD Time)
+# Last Update: 03:57 PM 01-07-2026 (BD Time)
 # Telegram: https://t.me/ibstvbd
 # WhatsApp: 01610598422
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="OTHERS",--- [ OTHERS PROMOTION ] ---
@@ -8,15 +8,19 @@ https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/h
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825138051020x576.jpg" group-title="OTHERS",CrowdStrike 24 Hours of Spa - Race Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="SPORTS",--- [ SPORTS PROMOTION ] ---
-https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291577865.mp4
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825938621020x576.jpg" group-title="SPORTS",Zimbabwe vs Bangladesh | Bangladesh Tour of Zimbabwe 2026
 https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
-#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781869172001/143531_CASACARDS_SPORTY_APP.png" group-title="SPORTS",Mills Cricket Club Vs Rml Sports | KPL Indo Nepal T20 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mills_cricket_club_vs_rml_sports_143531_english.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143582_6148_AM_BD_fc-web_1782725011344.jpg" group-title="SPORTS",Amo Sharks Vs Band E Amir Dragons | Shpageeza Cricket League 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/amo_sharks_vs_band_e_amir_dragons_143582_english.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg" group-title="SPORTS",Hpca Patna Vs Chinnamasta Lions | KPL Indo Nepal T20 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/hpca_patna_vs_chinnamasta_lions_143532_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438705/143434_CASACARDS_SPORTY_APP.png" group-title="SPORTS",Kalyani Bengaluru Blasters Vs Hubli Tigers | Maharaja T20 Trophy 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_hubli_tigers_143434_english.m3u8
+#EXTINF:-1 tvg-logo="https://images.fancode.com/aig/match/v1781841438705/143434_CASACARDS_SPORTY_APP.png" group-title="SPORTS",Kalyani Bengaluru Blasters Vs Hubli Tigers | Maharaja T20 Trophy 2026 (KANNADA)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/kalyani_bengaluru_blasters_vs_hubli_tigers_143434_kannada.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143583_6148_MAK_SG_fc-web_1782725012134.jpg" group-title="SPORTS",Mis E Ainak Knights Vs Speen Ghar Tigers | Shpageeza Cricket League 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/mis_e_ainak_knights_vs_speen_ghar_tigers_143583_english.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="BANGLA TV",--- [ BANGLA TV PROMOTION ] ---
-https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291577865.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/8e998f20a9cc52cb8eb1f52a5bf38204" group-title="BANGLA TV",Channel I
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8?e=1782889565&u=f54c14f5-0c1d-4106-885c-3bcd7626f69f&token=98976fbcdbab007985e234dd3b1eb058
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/342b1a51814ed9946fe36ac4999d82a2" group-title="BANGLA TV",Channel S
@@ -376,7 +380,7 @@ https://tvsen6.aynaott.com/ytv/index.m3u8?e=1782889572&u=f54c14f5-0c1d-4106-885c
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/c6fde511a99e5134dbf12b77da386cb6" group-title="OTHERS",TVCARiB Kids & Teens
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="MOVIES",--- [ MOVIES PROMOTION ] ---
-https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291577865.mp4
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9882913a8d68aa99c0501b64749d6320" group-title="MOVIES",ABN
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/f00eda9194eb13e8ef1d1387889173bf" group-title="OTHERS",RTV Islam
