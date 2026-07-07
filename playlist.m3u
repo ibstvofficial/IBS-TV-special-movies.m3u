@@ -1,16 +1,18 @@
 #EXTM3U
 # Playlist Name: IBS TV PRIME - ULTIMATE
-# Last Update: 08:46 PM 07-07-2026 (BD Time)
+# Last Update: 11:20 PM 07-07-2026 (BD Time)
 # Telegram: https://t.me/ibstvbd
 # WhatsApp: 01610598422
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="SPORTS",--- [ SPORTS PROMOTION ] ---
-https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17829793141020x576.jpg" group-title="SPORTS",West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
 https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="OTHERS",--- [ OTHERS PROMOTION ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833444911020x576.jpg" group-title="OTHERS",Gentlemen's & Ladies' Singles Quarter-Finals | Wimbledon 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17832322841020x576.jpg" group-title="SPORTS",England vs India | India Tour of England 2026
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833352281020x576.jpg" group-title="SPORTS",Dota 2 - Day 1 - Feed 1 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833353151020x576.jpg" group-title="SPORTS",Dota 2 - Day 1 - Feed 2 | Esports World Cup 2026 (EWC)
