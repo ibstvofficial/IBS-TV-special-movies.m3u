@@ -1,14 +1,16 @@
 #EXTM3U
 # Playlist Name: IBS TV PRIME - ULTIMATE
-# Last Update: 05:54 PM 07-07-2026 (BD Time)
+# Last Update: 08:46 PM 07-07-2026 (BD Time)
 # Telegram: https://t.me/ibstvbd
 # WhatsApp: 01610598422
-#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="OTHERS",--- [ OTHERS PROMOTION ] ---
-https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833444911020x576.jpg" group-title="OTHERS",Gentlemen's & Ladies' Singles Quarter-Finals | Wimbledon 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="SPORTS",--- [ SPORTS PROMOTION ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17829793141020x576.jpg" group-title="SPORTS",West Indies vs Sri Lanka | Sri Lanka Tour of West Indies 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
+#EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="OTHERS",--- [ OTHERS PROMOTION ] ---
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833444911020x576.jpg" group-title="OTHERS",Gentlemen's & Ladies' Singles Quarter-Finals | Wimbledon 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833352281020x576.jpg" group-title="SPORTS",Dota 2 - Day 1 - Feed 1 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833353151020x576.jpg" group-title="SPORTS",Dota 2 - Day 1 - Feed 2 | Esports World Cup 2026 (EWC)
@@ -17,6 +19,8 @@ https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-352fi78/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833317001020x576.jpg" group-title="SPORTS",Valorant Day 6 | Esports World Cup 2026 (EWC)
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-vs-SL_test_Web-match-card.png" group-title="SPORTS",Sri Lanka Vs West Indies | Sri Lanka tour of West Indies 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_vs_west_indies_142979_english.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="SPORTS",DD Sports
 https://cdn-6.pishow.tv/live/13/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" group-title="OTHERS",Aakaash Aath (576p)
@@ -24,7 +28,7 @@ https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="OTHERS",Aamar Bangla (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="NEWS",--- [ NEWS PROMOTION ] ---
-https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142518_ld_h15_aa.png?lock=720x540" group-title="NEWS",ABP Ananda (1080p)
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
 #EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Calcutta%20News.png" group-title="NEWS",AKD Calcutta News (1080p)
