@@ -1,10 +1,12 @@
 #EXTM3U
 # Playlist Name: IBS TV PRIME - ULTIMATE
-# Last Update: 09:19 AM 18-07-2026 (BD Time)
+# Last Update: 12:08 PM 18-07-2026 (BD Time)
 # Telegram: https://t.me/ibstvbd
 # WhatsApp: 01610598422
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="OTHERS",--- [ OTHERS PROMOTION ] ---
-https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4
+https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/promo%20dual.mp4
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841076901020x576.jpg" group-title="OTHERS",Individual Race - Final Classification - Xihai Town - Qinghai Lake Scenic Area Live | Tour of Magnificent Qinghai 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" group-title="OTHERS",Aakaash Aath (576p)
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="OTHERS",Aamar Bangla (720p)
