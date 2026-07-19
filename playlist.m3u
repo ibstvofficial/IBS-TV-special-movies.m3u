@@ -1,14 +1,14 @@
 #EXTM3U
 # Playlist Name: IBS TV PRIME - ULTIMATE
-# Last Update: 05:57 AM 19-07-2026 (BD Time)
+# Last Update: 09:39 AM 19-07-2026 (BD Time)
 # Telegram: https://t.me/ibstvbd
 # WhatsApp: 01610598422
 #EXTINF:-1 tvg-logo="https://bdixiptvbd.com/logo.png" group-title="OTHERS",--- [ OTHERS PROMOTION ] ---
 https://raw.githubusercontent.com/ibstvofficial/IBS-TV-special-movies.m3u/refs/heads/main/1777291501194.mp4
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841921501020x576.jpg" group-title="OTHERS",Eblen vs Kasanganay | PFL 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841900281020x576.jpg" group-title="OTHERS",Du Plessis vs Usman | UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dream-UTT-Juniors-2026_FC-WEB_1783573604778.jpg" group-title="OTHERS",Final | Dream UTT Juniors 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/final_4246610_english.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/000/554/655/original/cricket-logo-vector.jpg" group-title="OTHERS",No Live Match Available Right Now
 http://dummy-link.local
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" group-title="OTHERS",Aakaash Aath (576p)
