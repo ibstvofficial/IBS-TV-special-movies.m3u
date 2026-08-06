@@ -1,0 +1,143 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="Bangladeshi" ,Deepto TV
+
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuBiDYzB-Pp4seaXrE4D13TrHZ8FPFlhYrt9aJQh8Tjw&s=10" ,BBC News
+
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" ,BTV
+
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" ,SOMOY TV
+
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" ,Channel 24
+
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" ,INDEPENDENT TV
+
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" ,Ekattor TV
+
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" ,JAMUNA TV
+
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" ,ATN NEWS
+
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" ,ATN Bangla
+
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" ,NTV
+
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" ,Channel I
+
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg" ,Deshe Bideshe
+
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-name="Rajdhani tv" ,Rajdhani tv
+
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" ,DD Sports
+
+https://cdn-6.pishow.tv/live/13/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBRf6zU2qmpECHWSSONT2ElowE6k5Kd3huKlfhnzi5lyfCfG933D1N8xf&s=10" ,sport tv 2
+
+https://1nyaler.screenistream.xyz/stream/34/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjBRf6zU2qmpECHWSSONT2ElowE6k5Kd3huKlfhnzi5lyfCfG933D1N8xf&s=10" ,Sports tv 3
+
+https://1nyaler.screenistream.xyz/stream/35/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086" ,NBC Sports
+
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/1f08174ace89c73d3d4d8b72dd4601a4" ,Sharjah Sports TV
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwC21FebxsbZ47ndh4O4RsHdv_8nOlQMlEZD6BTrPMsuAH_cpjyqJ3rhn8&s=10" , TNT sports 
+
+https://1nyaler.screenistream.xyz/stream/122/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6" ,WOF 1
+
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/370762bb5582389fb52469931cdcd357" ,Pro Sports International
+
+https://proshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/ce9f61273938b15fd5372f1071ecfec5" ,Rta sports
+
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/98963a3064053f0f01bdf9186c86c432" ,Motor Sports TV
+
+https://25dee28f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0di0xX0hMUw/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e" ,speed sports 1
+
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb" ,MORE THEN SPORTS TV
+
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d" ,DD Bangla
+
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://s3.aynaott.com/storage/2b00567c538d392c8050124f0064c4a1" ,Enter 10 Bangla
+
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-name="StarJalsha HD" ,StarJalsha HD
+https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
+
+#EXTINF:-1 group-title="Indian Bangla" tvg-name="Jalsha Movies HD" ,Jalsha Movies HD
+
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
+
+#EXTINF:-1 group-title="Kids" tvg-name="Motu Patlu" ,Motu Patlu
+
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-name="Gopal Bhar" ,Gopal Bhar
+
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-name="Hindi Movies" ,Hindi Movies
+
+https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-name="South Movies" ,South Movies
+
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-name="Doraemon" ,Doraemon
+
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+
